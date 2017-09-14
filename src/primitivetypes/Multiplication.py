@@ -6,9 +6,6 @@ import sys
 #   equality checks and boolean combinations thereof
 # implies cannot use increment, decrement, or test if x < y
 
-# 5x3=15 => 101 x 11 = 1111
-# 5x8=40 => 101 x 1000 = 101000
-
 def increment(x):
     xorer = 1
     y = x
